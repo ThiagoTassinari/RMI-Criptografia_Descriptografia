@@ -1,5 +1,3 @@
-package br.com.ceuma.criptografia;
-
 public class CriptogtafiaImpl extends java.rmi.server.UnicastRemoteObject implements Criptografia {
 
     public CriptogtafiaImpl() throws java.rmi.RemoteException {

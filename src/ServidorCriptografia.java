@@ -1,5 +1,3 @@
-package br.com.ceuma.criptografia;
-
 import java.rmi.Naming;
 
 public class ServidorCriptografia {
@@ -17,7 +15,6 @@ public class ServidorCriptografia {
     }
 
     public static void main(String[] args) {
-
         new ServidorCriptografia();
     }
 }

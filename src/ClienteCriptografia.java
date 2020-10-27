@@ -1,5 +1,3 @@
-package br.com.ceuma.criptografia;
-
 import javax.swing.*;
 import java.rmi.Naming;
 import java.rmi.RemoteException;
